@@ -9,5 +9,8 @@
   },
   "keywords": [],
   "author": "Techdoodle",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "yargs": "^15.4.1"
+  }
 }
