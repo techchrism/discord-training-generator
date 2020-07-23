@@ -1,0 +1,13 @@
+{
+  "name": "discord-training-generator",
+  "version": "1.0.0",
+  "description": "Sets up a \"messages.txt\" file for training GPT-2 based on Discord message history",
+  "repository": "https://github.com/TheTechdoodle/discord-training-generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Techdoodle",
+  "license": "MIT"
+}
